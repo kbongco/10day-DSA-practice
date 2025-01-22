@@ -11,4 +11,7 @@ function reversArr(num) {
   return num;
 }
 
+// Time O(n);
+// Space O(1)
+
 console.log(reversArr([10, 20, 4, 45, 99]));

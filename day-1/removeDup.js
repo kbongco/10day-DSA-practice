@@ -7,5 +7,8 @@ function removeDup(arr) {
   }
   return noDuplicates
 }
+// Time and Space 
+// Time O(n^2);
+// Space O(n)
 
 console.log(removeDup([1, 2, 2, 3, 4, 4, 5]));
